@@ -1,0 +1,11 @@
+{
+  "name": "ISS Tracker & Voice Link",
+  "description": "Real-time International Space Station tracking with overhead pass alerts, dynamic compass/elevation predictions, and a secure secure voice link powered by Gemini API to converse with the ISS crew astronauts.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
